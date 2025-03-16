@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "task2_menu_selection/1.0.0": {
+        "runtime": {
+          "task2_menu_selection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task2_menu_selection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\.net_pro\task2_menu_selection\task2_menu_selection\bin\Debug\net9.0\task2_menu_selection.exe
+D:\.net_pro\task2_menu_selection\task2_menu_selection\bin\Debug\net9.0\task2_menu_selection.deps.json
+D:\.net_pro\task2_menu_selection\task2_menu_selection\bin\Debug\net9.0\task2_menu_selection.runtimeconfig.json
+D:\.net_pro\task2_menu_selection\task2_menu_selection\bin\Debug\net9.0\task2_menu_selection.dll
+D:\.net_pro\task2_menu_selection\task2_menu_selection\bin\Debug\net9.0\task2_menu_selection.pdb
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.AssemblyInfoInputs.cache
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.AssemblyInfo.cs
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.csproj.CoreCompileInputs.cache
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.dll
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\refint\task2_menu_selection.dll
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.pdb
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\task2_menu_selection.genruntimeconfig.cache
+D:\.net_pro\task2_menu_selection\task2_menu_selection\obj\Debug\net9.0\ref\task2_menu_selection.dll

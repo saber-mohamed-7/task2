@@ -16,6 +16,7 @@ namespace task2_menu_selection
             double avg =0;
             int largest = nums[0];
             int count = nums.Count;
+            bool find = true;
             
 
             do
@@ -143,13 +144,16 @@ namespace task2_menu_selection
                         {
                             
                             Console.WriteLine("it found in index : " + i);
+                            find = true;
+                            break;
                         }
                        else
-                            Console.WriteLine("the number not found (^_^)");
+                            find =false;
 
                        } 
 
-                    
+                      if(! find)
+                          Console.WriteLine("the number not found try agin!!!!!");
                     
 
                      }
